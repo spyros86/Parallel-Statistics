@@ -1,5 +1,7 @@
 #Parallel Statistics using named pipes
 
+Sorry readme is in Greek.
+
 MAIN_CHECK_ARGS: Ελέγχει τα arguments από το command line και παίρνει το βάθος και το όνομα του αρχείου.
 MAIN_GET_FILE_RECORD_NUM: Ανοίγει και διαβάζει όλο το αρχείο για να βρει τον αριθμό των εγγραφών.
 MAIN_PROMPT: Είναι η συνάρτηση που εμφανίζει το prompt και ελέγχει τα commands. Καλεί τη START_SEARCH που κάνει το πρώτο fork.
